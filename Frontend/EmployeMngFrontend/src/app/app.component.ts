@@ -109,8 +109,6 @@ export class AppComponent implements OnInit {
   //   button.click()
   // }
 
-  //nawattuwe 1:54:54 testing modaal logic eka blnna thiynne 
-
  
   
 }
